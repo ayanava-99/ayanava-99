@@ -5,9 +5,9 @@
 - 🔊 I’m looking foreward to collaborate with other creators🐱‍👤
 - 🥅 2020 Goals: Contribute more to Open Source projects😊
 - 🐱‍🏍 Fun fact: I love to draw and into MOBA gaming
+<br />
 
 ### Connect with me:
-___
 <a href="https://www.linkedin.com/in/ayanava-dutta-972617168/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/031-linkedin.png" align="left" height="28" width="28" ></a>
 
 <a href="https://www.instagram.com/ayanava_99/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/034-instagram.png" align="left" height="28" width="28" ></a>
