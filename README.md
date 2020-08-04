@@ -1,5 +1,5 @@
 # Hey there, I'm Ayanava  👋                    
-<img src="<img src="https://img.icons8.com/bubbles/50/000000/worldwide-location.png" align="left" height="28" width="28" >
+<img src="https://img.icons8.com/bubbles/50/000000/worldwide-location.png" align="left" height="28" width="28" >
 [Siliguri](https://www.google.com/maps/place/Siliguri,+West+Bengal/@26.7192607,88.3612321,12z/data=!3m1!4b1!4m5!3m4!1s0x39e44114f5441dcd:0xdeb5c4702063edff!8m2!3d26.7271012!4d88.3952861)
 
 
