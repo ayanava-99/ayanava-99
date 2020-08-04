@@ -13,7 +13,7 @@
 
 <a href="https://twitter.com/dutta_ayanava"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/013-twitter-1.png" align="left" height="28" width="28" ></a>
 
-<a href="<ayanava1999@gmail.com>"<img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/gmail.png" align="left" height="28" width="28" ></a>
+<a href="<ayanava1999@gmail.com>"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/gmail.png" align="left" height="28" width="28" ></a>
 
 <br />
 
