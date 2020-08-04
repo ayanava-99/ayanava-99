@@ -1,5 +1,5 @@
 # Hey there, I'm Ayanava  👋                    
-<img src="https://img.icons8.com/bubbles/50/000000/worldwide-location.png" align="left" height="28" width="28" >
+
 
 ## As a Student Developer
 - 🌱 I’m currently into Machine Learning, tinkering with computer vision 👀
