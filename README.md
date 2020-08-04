@@ -34,14 +34,3 @@
 <a href="https://code.visualstudio.com/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/visual-studio-code-logo-284BC24C39-seeklogo.com.png" align="left" height="24" width="24" ></a>
 
 <br />
-
-
-### 📕 Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- Comming Soon
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
-
