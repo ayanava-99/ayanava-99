@@ -1,6 +1,6 @@
-### Hi there, I'm Ayanava [website](https://ayanava1999.wixsite.com/portfolio) 👋
+## Hi there, I'm Ayanava [website](https://ayanava1999.wixsite.com/portfolio) 👋
 
-## I'm a Student Developer
+## As a Student Developer
 - 🌱 I’m currently into Machine Learning, tinkering with computer vision 👀
 - 👯 I’m looking foreward to collaborate with other creators🐱‍👤
 - 🥅 2020 Goals: Contribute more to Open Source projects😊
@@ -13,7 +13,7 @@
 
 <a href="https://twitter.com/dutta_ayanava"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/013-twitter-1.png" align="left" height="28" width="28" ></a>
 
-<a href="<ayanava1999@gmail.com>"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/gmail.png" align="left" height="28" width="28" ></a>
+<a href="https://ayanava1999.wixsite.com/portfolio"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/www.png" align="left" height="28" width="28" ></a>
 
 <br />
 
