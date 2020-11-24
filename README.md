@@ -5,7 +5,7 @@
 - 🌱 I’m currently into Machine Learning, tinkering with computer vision 👀
 - 🔊 Currently seeking opportunities in Machine Learning and Software Development🐱‍👤
 - 🥅 2020 Goals: Contribute more to Open Source projects😊
-- 🐱‍🏍 Fun fact: I love to draw and into MOBA gaming
+
 <br />
 
 ### Connect with me:
