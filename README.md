@@ -4,7 +4,7 @@
 ## As a Student Developer
 - 🌱 I’m currently into Machine Learning, tinkering with computer vision 👀
 - 🔊 Currently seeking opportunities in Machine Learning and Software Development🐱‍👤
-- 🥅 2020 Goals: Contribute more to Open Source projects😊
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
 
