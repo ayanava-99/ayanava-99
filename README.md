@@ -43,7 +43,6 @@ I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Python Developer ðŸš
 <code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code>
 <code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Git_icon.svg.png"></code>
 <br />
-<br />
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayanava-99&show_icons=true&theme=gotham&hide=contribs,prs,issues,contribsto" alt="ayanava-99" />
