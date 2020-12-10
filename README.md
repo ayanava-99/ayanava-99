@@ -1,36 +1,50 @@
-# Hey there, I'm Ayanava  👋                    
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">                 
+<a href="https://discord.gg/p4wT6eVX">
+  <img align="left" alt="Ayanava's Discord" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Discord-Logo-Color.png" />
+</a>
+<a href="https://twitter.com/dutta_ayanava">
+  <img align="left" alt="Ayanava Dutta | Twitter" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/013-twitter-1.png" />
+</a>
+<a href="https://www.linkedin.com/in/ayanava-dutta-972617168/">
+  <img align="left" alt="Ayanava's LinkdeIN" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/031-linkedin.png" />
+</a>
+<a href="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/HackerRank_Icon-1000px.png">
+  <img align="left" alt="Ayanava's HackerRank" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/HackerRank_Icon-1000px.png" />
+</a>              
+
+![](https://visitor-badge.glitch.me/badge?page_id=ayanava-99.ayanava-99)
 
 
-## As a Student Developer
-- 🌱 I’m currently into Machine Learning, tinkering with computer vision 👀
-- 🔊 Currently seeking opportunities in Machine Learning and Software Development🐱‍👤
+
+<br />
+
+Hi, I'm [Ayanava Dutta](https://ayanava1999.wixsite.com/portfolio), a Python Developer 🚀 and an AI Enthusiast 🤖 from India, currently, I'm a student  and have been a Former Teaching Asssistant [@CodingNinjas](https://www.codingninjas.com/). Beside's programming, I enjoy travelling 🚌.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+**Talking of Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Computer vision and PyTorch; 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/ayanava-dutta-972617168/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/031-linkedin.png" align="left" height="28" width="28" ></a>
+**Languages and Tools:**
 
-
-<a href="https://twitter.com/dutta_ayanava"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/013-twitter-1.png" align="left" height="28" width="28" ></a>
-
-<a href="https://ayanava1999.wixsite.com/portfolio"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/www.png" align="left" height="28" width="28" ></a>
-
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/600px-Python-logo-notext.svg.png"></code>
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/pytorch-logo.png" ></code>
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Tensorflow_logo.svg.png"></code>
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/C.png"></code>
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/cpp_logo.png"></code>
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/java-eps-vector-logo.png"></code>
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/518px-Jupyter_logo.svg.png"></code>
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code>
+<code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Git_icon.svg.png"></code>
 <br />
 <br />
-
-### Languages and Tools:
-
-<a href="https://www.python.org/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/600px-Python-logo-notext.svg.png" align="left" height="28" width="28" ></a>
-
-<a href="http://www.cplusplus.com/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/cpp_logo.png" align="left" height="28" width="28" ></a>
-
-<a href="https://pytorch.org/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/pytorch-logo.png" align="left" height="28" width="28" ></a>
-
-<a href="https://www.tensorflow.org/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Tensorflow_logo.svg.png" align="left" height="28" width="28" ></a>
-
-<a href="https://jupyter.org/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/518px-Jupyter_logo.svg.png" align="left" height="28" width="28" ></a>
-
-<a href="https://code.visualstudio.com/"><img src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/visual-studio-code-logo-284BC24C39-seeklogo.com.png" align="left" height="28" width="28" ></a>
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayanava-99&show_icons=true&theme=gotham" alt="ayanava-99" />
 <br />
+<br /> 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
