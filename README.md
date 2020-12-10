@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/ayanava-dutta-972617168/">
   <img align="left" alt="Ayanava's LinkdeIN" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/031-linkedin.png" />
 </a>
-<a href="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/HackerRank_Icon-1000px.png">
+<a href="https://www.hackerrank.com/Ayanava_99">
   <img align="left" alt="Ayanava's HackerRank" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/HackerRank_Icon-1000px.png" />
 </a>              
 
@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I'm [Ayanava Dutta](https://ayanava1999.wixsite.com/portfolio), a Python Developer 🚀 and an AI Enthusiast 🤖 from India, currently, I'm a student  and have been a Former Teaching Asssistant [@CodingNinjas](https://www.codingninjas.com/). Beside's programming, I enjoy travelling 🚌.
+I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Python Developer 🚀 and an AI Enthusiast 🤖 from India, currently, I'm a student and have been a former Teaching Asssistant [@CodingNinjas](https://www.codingninjas.com/). Beside's programming, I enjoy travelling 🚌.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -44,7 +44,10 @@ Hi, I'm [Ayanava Dutta](https://ayanava1999.wixsite.com/portfolio), a Python Dev
 <code><img height="20" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Git_icon.svg.png"></code>
 <br />
 <br />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayanava-99&show_icons=true&theme=gotham" alt="ayanava-99" />
+
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayanava-99&show_icons=true&theme=gotham&hide=contribs,prs,issues,contribsto" alt="ayanava-99" />
 <br />
+<br /> 
 <br /> 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
