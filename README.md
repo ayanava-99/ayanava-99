@@ -47,4 +47,3 @@ I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Python Developer �
 <br />
 <br /> 
 <br /> 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
