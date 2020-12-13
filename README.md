@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">                 
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">                 
 <a href="https://discord.gg/p4wT6eVX">
   <img align="left" alt="Ayanava's Discord" width="22px" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Discord-Logo-Color.png" />
 </a>
