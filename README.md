@@ -18,7 +18,7 @@
 
 <br />
 
-I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Python Developer 🚀 and an AI Enthusiast 🤖 from India, currently, I'm a student and have been a former Teaching Asssistant [@CodingNinjas](https://www.codingninjas.com/). Beside's programming, I enjoy travelling 🚌.
+I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Python Developer 🚀 and an AI Enthusiast 🤖 from India, currently, I'm a student. Beside's programming, I enjoy travelling 🚌.
 
 <img align="right" alt="GIF" src="https://github.com/ayanava-99/ayanava-99/blob/master/assets/ico/Marketing-Data-Analytics.gif" width="500" height="320" />
 
