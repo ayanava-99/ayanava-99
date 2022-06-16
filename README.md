@@ -27,7 +27,7 @@ I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Python Developer �
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Computer vision and PyTorch; 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+
 
 <br />
 
