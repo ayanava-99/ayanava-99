@@ -26,7 +26,7 @@ I'm [Ayanava](https://ayanava1999.wixsite.com/portfolio), a Software Developer �
 **Talking of Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Computer vision and PyTorch; 
+
 
 
 <br />
